@@ -21,5 +21,5 @@ Open these ports :
 ## Install ELK stack
 
 ```
-.\install_elk.sh
+./install_elk.sh
 ```
