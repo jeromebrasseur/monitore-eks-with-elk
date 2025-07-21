@@ -1,6 +1,6 @@
 # Monitore EKS cluster with ELK (Elasticsearch Logstach Kibana)
 
-<p align="center"><img src="img/elk.png" width="50%"></p>
+<p align="center"><img src="img/elk.png" width="70%"></p>
 
 ----
 
