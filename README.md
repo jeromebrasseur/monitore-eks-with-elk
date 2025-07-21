@@ -4,7 +4,7 @@
 
 ----
 
-This repo provides the steps to deploy Angular HelloWorld on EC2 instance using Jenkins. Jenkins is an open-source automation server tool. It helps automate the build, testing, and deployment aspects of software development, and facilitates continuous integration and continuous delivery.
+This repo provides the steps to deploy an ELK stack to monitore an EKS cluster. In this example, we will use a single EC2 instance for the ELK stack (this is not recommended in production).
 
 ----
 
